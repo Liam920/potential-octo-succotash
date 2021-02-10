@@ -16,6 +16,7 @@ public class Coconut {
      */
     public static void main(String[] args) {
         System.out.println("I like coconuts!");
+        System.out.println("But I love pineapples.");
     }
     
 }
